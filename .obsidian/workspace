@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "626c9ef2890e7f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "940008c557d567cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Род Клавис/Инкар Клавис.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8672df0b8146668",
+    "type": "split",
+    "children": [
+      {
+        "id": "c63cf6d5700ccda9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "631efa8b3aec1ce6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6b50d812e06f5ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "064231cae2adaaaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd1181a626783dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42a3964332c3297d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Род Клавис/Инкар Клавис.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "940008c557d567cf",
+  "lastOpenFiles": [
+    "Род Клавис/Инкар Клавис.md",
+    "Род Клавис/Род Клавис.md",
+    "Род Клавис/Культ Ключа и Врат.md",
+    "Инкар Клавис.md",
+    "Pasted image 20221022143255.png",
+    "чародей 1-ый персонаж.md"
+  ]
+}
